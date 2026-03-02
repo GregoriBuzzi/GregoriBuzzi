@@ -1,10 +1,6 @@
 ## Ola! Eu sou o Gregori Barreto
 
 
-**GregoriBuzzi/GregoriBuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🖥️ Cursando Desenvolvimento de sistemas ...
 - 💬 Finalizando 2º Grau ...
 - 😄 Vivendo e aprendendo ...
